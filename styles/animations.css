@@ -10,7 +10,7 @@
 
 */
 
-@keyframes scaleicon {
+@keyframes scaleIcon {
   from {
     transform: scale(1);
   }
@@ -19,7 +19,7 @@
   }
 }
 
-@keyframes sparkcolor {
+@keyframes fadeIn {
   from {
     opacity: 0;
   }
